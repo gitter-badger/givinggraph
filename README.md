@@ -1,5 +1,7 @@
 Giving Graph
 ========
+
+[![Join the chat at https://gitter.im/erichilarysmithsr/givinggraph](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erichilarysmithsr/givinggraph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [<img src="http://dssg.io/img/partners/case.jpg" width="400" align="right">](http://casefoundation.org)
 
 Giving Graph is a proof-of-concept project that **assembles information** about nonprofits scattered throughout the web, uses this data to **build a social network** that links nonprofits, companies, and people, and publishes the resulting "giving graph" through an **API.** This API could eventually be used to power apps that help non-profits understand which who to partner with, who to get funding from, and how to get more supporters.
